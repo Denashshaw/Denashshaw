@@ -1,6 +1,6 @@
 - 👋 Hey, I’m Denash shaw - Full Stack Developer
 - 👀 I’m interested in web development and Mobile Application Development
-- 🌱 I’m currently learning Front End Technology
+- 🌱 I’m currently learning Front End Technology VueJs
 - 💞️ I’m looking to collaborate on any freelancing works
 - 📫 You can reach me at denashshaw.github.io/web
 
